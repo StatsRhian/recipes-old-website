@@ -1,4 +1,7 @@
-# Scones
+---
+title: Scones
+layout: default
+---
 
 - 225g Self raising flour
 - 25g sugar
