@@ -5,19 +5,17 @@ title: Home Page
 
  <section class="hero">
         <div class="small-container">
-          <h2>Fresh, homemade baked goods</h2>
-          <p class="sub-text">Bakery<strong>Store</strong> serves the freshest baked goods in San Francisco.</p>
+          <h2>Recipes</h2>
+          <p class="sub-text">A repository of recipes that James and I use.</p>
         </div>
       </section>
+<ul>
 
-<p>Here is a list of recipes that James and I often use. I intend to update this list by categorising recipes at a later date. </p>
-
-<h1>List of Recipes</h1>
-
+          </ul>
 {% for recipes in site.my_recipes %}
-
-
+<li>
 <a href="{{ recipes.url | prepend: site.baseurl }}">
-        <h3>{{ recipes.title }}</h3>
-</a>
-{% endfor %}     
+        {{ recipes.title }}
+ </a></li>
+{% endfor %}   
+<\ul>
