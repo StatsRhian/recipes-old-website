@@ -1,5 +1,7 @@
-# Muscovado Peanut Cookies (Dan Lepard)
-
+---
+title: Muscovado Peanut Cookies (Dan Lepard)
+layout: default
+---
 * 75g unsalted butter, softened
 * 50g crunchy peanut butter
 * 225g muscovado or dark molasses sugar
