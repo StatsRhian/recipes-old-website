@@ -1,4 +1,7 @@
-# Lentil Ragu
+---
+title: Lentil Ragu
+layout: default
+---
 
 * 1 onion, finely chopped
 * 2 carrots, finely chopped
