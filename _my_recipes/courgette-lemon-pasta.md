@@ -1,4 +1,7 @@
-# Courgette Lemon Pasta
+---
+title: Courgette Lemon Pasta
+layout:default
+---
 
 - 200g penne
 - 400g cougettes
