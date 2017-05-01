@@ -1,4 +1,6 @@
-# Aunt Edith's Bara Brith
+---
+title: Aunt Edith's Bara Brith
+---
 
 * 350g Self Raising flour
 * 350g Mixed fruit soaked overnight with a cold cup of tea
