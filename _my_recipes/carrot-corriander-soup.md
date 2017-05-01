@@ -1,4 +1,7 @@
-# Carrot Corriander Soup
+---
+title: Carrot Corriander Soup
+layout: default
+---
 
 - 1 onion
 - 350g carrots
