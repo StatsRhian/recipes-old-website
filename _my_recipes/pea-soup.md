@@ -1,6 +1,9 @@
-# Pea Soup
+---
+title: Pea Soup
+layout: default
+---
 
 * 200/250g frozen peas
 * 400/500g stock
 
-Blitz, then blitz again. Stir in butter and cream
+Blitz, then blitz again. Stir in butter and cream.
