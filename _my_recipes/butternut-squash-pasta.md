@@ -1,5 +1,7 @@
-# Butternut Squash Pasta
-
+---
+title: Butternut Squash Pasta
+layout: default
+---
 * 30g butter
 * 1 garlic clove
 * 1 small onion / shallot
