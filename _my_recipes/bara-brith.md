@@ -1,5 +1,6 @@
 ---
 title: Aunt Edith's Bara Brith
+layout: recipe_page
 ---
 
 * 350g Self Raising flour
