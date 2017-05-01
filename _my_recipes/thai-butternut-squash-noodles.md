@@ -1,4 +1,8 @@
-# Thai Butternut Squash Noodles
+---
+title: Thai Butternut Squash Noodles
+layout: default
+--- 
+
 * 1/2 onion
 * Clove of garlic
 * 1/2 butternut squash
