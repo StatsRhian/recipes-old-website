@@ -1,4 +1,8 @@
-# Vegetarian Cheese Burgers
+---
+title: Vegetarian Cheese Burgers
+layout: default
+--- 
+
 
 * 400g Red kidney beans rinsed and drained
 * 1 small onion chopped finely
