@@ -1,4 +1,8 @@
-# One A Day Cookies | Dan Lepard
+---
+title: One A Day Cookies 
+chef: Dan Lepard
+layout: default
+---
 
 * 125g unsalted butter, softened
 * 100g (80) caster sugar
