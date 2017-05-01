@@ -3,19 +3,12 @@ layout: default
 title: Home Page
 ---
 
- <section class="hero">
-        <div class="small-container">
-          <h2>Recipes</h2>
-          <p class="sub-text">A repository of recipes that James and I use.</p>
-        </div>
-      </section>
-<ul>
 
-          </ul>
+<ul>
 {% for recipes in site.my_recipes %}
 <li>
 <a href="{{ recipes.url | prepend: site.baseurl }}">
         {{ recipes.title }}
  </a></li>
 {% endfor %}   
-<\ul>
+</ul>
