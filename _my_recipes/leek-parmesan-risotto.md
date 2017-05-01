@@ -1,4 +1,7 @@
-# Leek and Parmesan Risotto
+---
+title: Leek and Parmesan Risotto
+layout: default
+---
 
 - 4 spring onions
 - 2 leeks chopped
