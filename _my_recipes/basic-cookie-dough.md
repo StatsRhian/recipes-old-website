@@ -1,6 +1,6 @@
 ---
 title: Basic Cookie Dough
-layout: page
+layout: default
 ---
 
 ## Plain (12)
