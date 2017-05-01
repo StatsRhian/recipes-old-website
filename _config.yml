@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 
 collections:
  my_recipes:
- output: true
-    permalink: /recipes/:path/
+  output: true
+  permalink: /recipes/:path/
