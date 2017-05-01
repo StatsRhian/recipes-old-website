@@ -1,4 +1,7 @@
-# Nordic Cinnamon Buns
+---
+title: Nordic Cinnamon Buns
+layout: default
+---
 
 Makes 12-13
 
