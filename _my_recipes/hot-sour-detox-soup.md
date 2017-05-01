@@ -1,4 +1,8 @@
-# Hot and Sour Detox Soup | Nigella Lawson
+--- 
+title: Hot and Sour Detox Soup
+chef: Nigella Lawson
+layout: default
+---
 
 - 225g button mushrooms
 - 2 - 3 small Chillis, fresh red
