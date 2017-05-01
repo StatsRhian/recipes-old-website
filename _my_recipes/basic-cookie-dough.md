@@ -1,4 +1,6 @@
-# Basic Cookie Dough
+---
+title: Basic Cookie Dough
+---
 
 ## Plain (12)
 * 120g butter
