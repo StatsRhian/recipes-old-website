@@ -1,6 +1,8 @@
-# Pitta Bread | Paul Hollywood
-
-
+---
+title: Pitta Bread
+chef: Paul Hollywood
+layout: default
+---
 
 * 250g/9oz strong white flour, plus extra for dusting
 * 1 x 7g sachet instant yeast
