@@ -1,4 +1,7 @@
-# Moroccan Spiced Chickpeas with Spinach
+--- 
+title: Moroccan Spiced Chickpeas with Spinach
+layout: default
+---
 
 - 1 onion
 - 2 cloves garlic
