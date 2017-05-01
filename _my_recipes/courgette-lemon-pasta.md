@@ -1,6 +1,6 @@
 ---
 title: Courgette Lemon Pasta
-layout:default
+layout: default
 ---
 
 - 200g penne
