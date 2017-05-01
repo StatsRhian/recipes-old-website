@@ -1,4 +1,7 @@
-# Blueberry Tart with Rye 
+---
+title: Blueberry Tart with Rye
+layout: default
+---
 
 For the pastry
 - 100g (3.5 oz) Unsalted butter, softened at room temperature
