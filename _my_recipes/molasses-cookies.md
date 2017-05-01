@@ -1,4 +1,7 @@
-# Molasses Cookies
+---
+title: Molasses Cookies
+layout: default
+---
 
 - 180g butter
 - 180g muscovado sugar
