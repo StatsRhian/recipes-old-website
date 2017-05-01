@@ -1,4 +1,7 @@
-# Spiced Butternut Squash
+---
+title: Spiced Butternut Squash
+layout: default
+---
 
 * 600g butternut squash
 * 1/4 tsp turmeric
