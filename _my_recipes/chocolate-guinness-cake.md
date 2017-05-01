@@ -1,4 +1,8 @@
-# Chocolate Guinness Cake | Nigella Lawson
+---
+title: Chocolate Guinness Cake
+chef: Nigella Lawson
+layout: default
+---
 
 For the Cake
 
