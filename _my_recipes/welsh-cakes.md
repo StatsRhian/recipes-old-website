@@ -1,4 +1,7 @@
-# Welsh cakes
+---
+title: Welsh cakes
+layout: default
+--- 
 
 * 225g self-raising flour, sieved
 * 100g salted butter
