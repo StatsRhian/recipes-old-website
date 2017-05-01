@@ -1,4 +1,7 @@
-# Spicy Cougette Pitta Pockets
+---
+title: Spicy Cougette Pitta Pockets
+layout: default
+---
 
 - 1 courgette, trimmed and thinly sliced lengthways
 - 2 tsp harissa paste
