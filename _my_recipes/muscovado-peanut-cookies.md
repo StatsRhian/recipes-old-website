@@ -1,5 +1,6 @@
 ---
-title: Muscovado Peanut Cookies (Dan Lepard)
+title: Muscovado Peanut Cookies
+chef: Dan Lepard
 layout: default
 ---
 * 75g unsalted butter, softened
