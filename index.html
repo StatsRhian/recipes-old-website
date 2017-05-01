@@ -1,17 +1,20 @@
 ---
 layout: default
-title: Jekyll Themes
+title: Home Page
 ---
 
-Hello World. 
+* Here is a list of recipes that James and I often use.
+
+* I intend to update this list by catergorising recipes at a later date. 
+
+* The related GitHub page can be found [here](https://github.com/trianglegirl/recipes).
+
+### List of Recipes
 
 {% for recipes in site.my_recipes %}
 
 
 <a href="{{ recipes.url | prepend: site.baseurl }}">
-        <h2>{{ recipes.title }}</h2>
+        <h3>{{ recipes.title }}</h3>
 </a>
-
-<p class="post-excerpt">{{ recipes.description | truncate: 160 }}</p>
-
 {% endfor %}     
