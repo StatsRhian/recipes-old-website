@@ -1,4 +1,7 @@
-# Mum's mince pie pastry
+---
+title: Mum's mince pie pastry
+layout: default
+---
 
 * 175g margarine
 * 250g self raising flour
