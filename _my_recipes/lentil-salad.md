@@ -1,4 +1,7 @@
-# Lentil Salad
+---
+title: Lentil Salad
+layout: default
+---
 
 * 1 onion
 * 1 tbsp lemon
