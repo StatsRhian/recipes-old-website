@@ -1,3 +1,8 @@
+---
+title: Broad Bean, Barley and Mint Salad
+layout: default
+---
+
 # Broad Bean, Barley and Mint Salad
 
 - 1l vegetable stock
