@@ -34,7 +34,7 @@ Beat butter and sugar until fluffy. Beat in egg and vanilla. Mix in flour. Gas 4
 * 3 tbsp roasted sunflour seeds
 * 75g oats
 
-## Double choc chunk (14)
+#### Double choc chunk (14)
 * 100g butter
 * 100g light muscovado
 * 25g caster sugar
