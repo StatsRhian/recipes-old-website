@@ -1,5 +1,7 @@
-# Grasmere Ginger Shortbread
-
+---
+title: Grasmere Ginger Shortbread
+layout: default
+---
 - 150g plain flour
 - 150g wholemeal flour (wheat of spelt)
 - 50g medium oatmeal
