@@ -1,4 +1,8 @@
-# Spinach Feta and Pinenut Parcels (Paul Hollywood)
+---
+title: Spinach Feta and Pinenut Parcels
+chef: Paul Hollywood
+layout: default
+--- 
 
 Makes 4 pasties.
 
