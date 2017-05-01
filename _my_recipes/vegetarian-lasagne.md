@@ -1,4 +1,9 @@
-#  Vegetarian Lasagne (Hairy Bikers)
+--- 
+title: Vegetarian Lasagne
+chef: The Hairy Bikers
+layout: default
+--- 
+
 
 Serves 4
 
