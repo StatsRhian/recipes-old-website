@@ -1,5 +1,7 @@
-## List of Recipies
-
+---
+layout: default
+title: List of Recipes
+---
 
 {% for themes in site.themes %}
 
@@ -10,4 +12,4 @@
 
 <p class="post-excerpt">{{ themes.description | truncate: 160 }}</p>
 
-{% endfor %}    
+{% endfor %}      
