@@ -1,4 +1,7 @@
-# Carrot lentil soup
+---
+title: Carrot and Lentil Soup
+layout: default
+---
 
 * 600g peeled carrots
 * 200g red lentils
