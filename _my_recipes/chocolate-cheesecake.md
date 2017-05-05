@@ -1,6 +1,6 @@
 ---
 title: Chocolate Cheesecake
-layout: page
+layout: default
 ---
 
 
