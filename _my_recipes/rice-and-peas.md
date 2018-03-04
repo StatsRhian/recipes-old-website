@@ -12,4 +12,5 @@ layout: default
 * 1 chilli
 * 200g cooked kidney beans
 * all spice berry
+
 Fry onion and garlic. Add everything else. bring to boil, cover and cook for 20 min. 
