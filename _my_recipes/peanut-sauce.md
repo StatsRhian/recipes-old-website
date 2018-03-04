@@ -15,3 +15,5 @@ layout: default
 
 Blend/chop ginger and garlic. Mix everything except peanut butter.
 Add peanut butter spoon at a time, adding water if needed. Seal in glass jar and shake.
+
+Add roasted peanuts and coconut milk to make it a satay sauce.
