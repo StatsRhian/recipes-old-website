@@ -14,3 +14,6 @@ Recipes to add
 * Coffee cake
 * Muffin reciepe
 * Banana bread
+* Tomato sauce
+* Lentil dahl
+* Bean chilli
