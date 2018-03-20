@@ -1,5 +1,5 @@
 --- 
-title: Vegetarian Lasagne
+title: Vegetarian Lentil Lasagne
 chef: The Hairy Bikers
 layout: default
 --- 

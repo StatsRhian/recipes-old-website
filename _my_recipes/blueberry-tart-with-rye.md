@@ -1,5 +1,6 @@
 ---
 title: Blueberry Tart with Rye
+chef: NordicBakery
 layout: default
 ---
 
