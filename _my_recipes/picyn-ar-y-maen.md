@@ -1,4 +1,7 @@
-Picau ar y maen/Cacen gri
+---
+title: Picau ar y maen
+layout: default
+
 
 Ti angen griddle neu padell ffrïo i wneud picau ar y maen.
 
