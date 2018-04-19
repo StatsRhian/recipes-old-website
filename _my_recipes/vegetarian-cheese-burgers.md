@@ -12,4 +12,4 @@ layout: default
 * plain flour (for dusting)
 * 1 tbsp oil
 
-Heat oven to 220*C. Blitz beans, onion, cheese, breadcrumbs and egg in food blender. Flour hands, shape into burgers and fry.
+Blitz beans, onion, cheese, breadcrumbs and egg in food blender. Flour hands, shape into burgers and fry.
