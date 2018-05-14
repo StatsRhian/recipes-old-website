@@ -1,5 +1,5 @@
 ---
-title: Dark aniseed cake
+title: Aniseed cake
 chef: Dan Lepard
 layout: default
 ---
