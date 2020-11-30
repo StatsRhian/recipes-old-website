@@ -1,6 +1,8 @@
 # recipes
 A repository of recipes that James and I sometimes use.
 
+Update [available](https://statsrhian.github.io/recipes/)
+
 Recipes to add 
 
 * Split pea soup - Cranks
